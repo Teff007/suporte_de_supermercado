@@ -92,3 +92,6 @@ saladeaula/
 
 - Linguagem C
 - Bibliotecas padrão: `stdio.h` e `string.h`
+
+  # 7. Teste
+  https://onlinegdb.com/gnI13FBL6e
