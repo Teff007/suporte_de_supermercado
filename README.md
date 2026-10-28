@@ -93,5 +93,5 @@ saladeaula/
 - Linguagem C
 - Bibliotecas padrão: `stdio.h` e `string.h`
 
-  # 7. Teste
+  # 7. Execução online
   https://onlinegdb.com/gnI13FBL6e
