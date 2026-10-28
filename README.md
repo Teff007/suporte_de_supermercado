@@ -80,15 +80,6 @@ Usa a estratégia de **dividir para conquistar**:
 - Vantagens: bem mais rápido que o Bubble Sort em listas maiores
 - Desvantagem: usa recursão e o desempenho depende da escolha do pivô
 
-### Comparação
-
-| Característica      | Bubble Sort | Quick Sort          |
-|---------------------|-------------|---------------------|
-| Estratégia          | Trocas entre vizinhos | Divisão e conquista |
-| Tempo médio         | O(n²)       | O(n log n)          |
-| Pior caso           | O(n²)       | O(n²)               |
-| Implementação       | Simples     | Mais elaborada (recursiva) |
-
 ## 5. Estrutura do projeto
 
 ```
